@@ -1,0 +1,8 @@
+# Default initial positions for manipulator's ros2_control fake system
+
+initial_positions:
+  finger_joint1: 0
+  finger_joint2: 0
+  joint1: 0
+  joint2: 0
+  joint3: 0
